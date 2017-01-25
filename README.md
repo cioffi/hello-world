@@ -1,5 +1,5 @@
 # hello-world
-Sample repository to learn how git hub works.
+Sample repository.
 
   * I am a Senior Data Manager in the Department of Health Care Policy. 
-  * I'd like to learn ho GitHub helps with version control
+  * I'd like to learn how GitHub helps with version control
